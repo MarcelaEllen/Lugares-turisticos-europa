@@ -9,7 +9,7 @@ body{
 nav{
     display:flex;
     justify-content: space-between;
-    background-color: rgb(50, 187, 205);
+    background-color: 	#66CDAA;
     height: 64px;
     border-bottom: 2px solid;
 }
@@ -78,7 +78,7 @@ p{
 footer{
     margin-top: 80px;
     border-top: 2px solid;
-    background-color: yellowgreen;
+    background-color: 	#66CDAA;
     display:flex;
     justify-content: center;
 }
